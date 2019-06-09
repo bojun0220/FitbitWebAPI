@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Thu, 06 Jun 2019 07:05:32 GMT
+content-type: application/json;charset=UTF-8
+vary: Origin,Accept-Encoding
+cache-control: no-cache, private
+content-language: en
+fitbit-rate-limit-limit: 150
+fitbit-rate-limit-remaining: 150
+fitbit-rate-limit-reset: 3269
+x-frame-options: SAMEORIGIN
+x-frame-options: SAMEORIGIN
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 4e2889d55b55d1c3-HKG
+
+{"activities":[],"goals":{"activeMinutes":30,"caloriesOut":2870,"distance":8.05,"floors":10,"steps":10000},"summary":{"activeScore":-1,"activityCalories":764,"caloriesBMR":1073,"caloriesOut":1759,"distances":[{"activity":"total","distance":3.76},{"activity":"tracker","distance":3.76},{"activity":"loggedActivities","distance":0},{"activity":"veryActive","distance":1.72},{"activity":"moderatelyActive","distance":1.02},{"activity":"lightlyActive","distance":1.02},{"activity":"sedentaryActive","distance":0}],"elevation":33.53,"fairlyActiveMinutes":27,"floors":11,"heartRateZones":[{"caloriesOut":1299.09885,"max":99,"min":30,"minutes":794,"name":"超出範圍"},{"caloriesOut":421.6821,"max":138,"min":99,"minutes":81,"name":"脂肪燃燒"},{"caloriesOut":0,"max":168,"min":138,"minutes":0,"name":"心肺訓練區"},{"caloriesOut":0,"max":220,"min":168,"minutes":0,"name":"峰值"}],"lightlyActiveMinutes":98,"marginalCalories":469,"restingHeartRate":63,"sedentaryMinutes":290,"steps":5327,"veryActiveMinutes":23}}

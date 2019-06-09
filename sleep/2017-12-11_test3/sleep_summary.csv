@@ -1,0 +1,25 @@
+gap threshold (min),1
+awake threshold (min),2
+
+start date,2017-12-11
+start time,12:40:00
+end date,2017-12-11
+end time,13:54:30
+asleep (hr),1
+asleep (min),11
+awake times,1
+restless times,0
+awake (min),3
+restless (min),0
+
+start date,2017-12-11
+start time,00:40:00
+end date,2017-12-11
+end time,06:58:00
+asleep (hr),5
+asleep (min),47
+awake times,3
+restless times,6
+awake (min),16
+restless (min),15
+

@@ -1,0 +1,89 @@
+Sleep time(from 00:00): 530 minutes
+Sit count no.1: 0minutes
+Sit count no.2: 25minutes
+Sit count no.3: 2minutes
+Sit count no.4: 1minutes
+Sit count no.5: 1minutes
+Sit count no.6: 6minutes
+Sit count no.7: 6minutes
+Sit count no.8: 6minutes
+Sit count no.9: 5minutes
+Sit count no.10: 1minutes
+Sit count no.11: 23minutes
+Sit count no.12: 5minutes
+Sit count no.13: 5minutes
+Sit count no.14: 5minutes
+Sit count no.15: 14minutes
+Sit count no.16: 10minutes
+Sit count no.17: 61minutes
+Sit count no.18: 1minutes
+Sit count no.19: 5minutes
+Sit count no.20: 2minutes
+Sit count no.21: 82minutes
+Sit count no.22: 2minutes
+Sit count no.23: 7minutes
+Sit count no.24: 1minutes
+Sit count no.25: 46minutes
+Sit count no.26: 57minutes
+Sit count no.27: 3minutes
+Sit count no.28: 20minutes
+Sit count no.29: 6minutes
+Sit count no.30: 13minutes
+Sit count no.31: 2minutes
+Sit count no.32: 2minutes
+Sit count no.33: 2minutes
+Sit count no.34: 5minutes
+Sit count no.35: 16minutes
+Sit count no.36: 30minutes
+Sit count no.37: 1minutes
+Sit count no.38: 1minutes
+Sit count no.39: 9minutes
+Sit count no.40: 12minutes
+Sit count no.41: 54minutes
+Sit count no.42: 37minutes
+Sit count no.43: 31minutes
+Sit count no.44: 125minutes
+Total sit time: 748
+Walk count no.1: 0steps for 0minutes
+Walk count no.2: 60steps for 2minutes
+Walk count no.3: 12steps for 1minutes
+Walk count no.4: 47steps for 2minutes
+Walk count no.5: 30steps for 2minutes
+Walk count no.6: 21steps for 1minutes
+Walk count no.7: 20steps for 1minutes
+Walk count no.8: 27steps for 2minutes
+Walk count no.9: 497steps for 12minutes
+Walk count no.10: 439steps for 9minutes
+Walk count no.11: 100steps for 4minutes
+Walk count no.12: 1702steps for 20minutes
+Walk count no.13: 60steps for 3minutes
+Walk count no.14: 11steps for 1minutes
+Walk count no.15: 10steps for 1minutes
+Walk count no.16: 41steps for 2minutes
+Walk count no.17: 632steps for 8minutes
+Walk count no.18: 449steps for 8minutes
+Walk count no.19: 10steps for 1minutes
+Walk count no.20: 10steps for 1minutes
+Walk count no.21: 966steps for 14minutes
+Walk count no.22: 15steps for 1minutes
+Walk count no.23: 27steps for 2minutes
+Walk count no.24: 19steps for 1minutes
+Walk count no.25: 10steps for 1minutes
+Walk count no.26: 12steps for 1minutes
+Walk count no.27: 142steps for 4minutes
+Walk count no.28: 19steps for 1minutes
+Walk count no.29: 739steps for 9minutes
+Walk count no.30: 10steps for 1minutes
+Walk count no.31: 10steps for 1minutes
+Walk count no.32: 19steps for 1minutes
+Walk count no.33: 1677steps for 21minutes
+Walk count no.34: 21steps for 1minutes
+Walk count no.35: 64steps for 3minutes
+Walk count no.36: 151steps for 6minutes
+Walk count no.37: 239steps for 3minutes
+Walk count no.38: 68steps for 2minutes
+Walk count no.39: 34steps for 2minutes
+Walk count no.40: 48steps for 3minutes
+Walk count no.41: 27steps for 1minutes
+Walk count no.42: 12steps for 1minutes
+Total steps(modified): 8507

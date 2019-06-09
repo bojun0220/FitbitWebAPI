@@ -1,0 +1,6 @@
+
+
+python create_dir.py 2019-06-06_test3
+
+curl -i -H "Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMkRRNzgiLCJzdWIiOiI3SzZQWlYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc29jIHJzZXQgcmFjdCBybG9jIHJ3ZWkgcmhyIHJudXQgcnBybyByc2xlIiwiZXhwIjoxNTYwMzk3MTk5LCJpYXQiOjE1NTk3OTIzOTl9.u_Zn0Rfo0_fjRAE4N7X1ofZpivKKX67ZjBvRvZfBkBk" https://api.fitbit.com/1/user/-/activities/steps/date/today.json -o 2019-06-04_test3/steps_test3_2019-06-04;;
+curl -i -H "Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMkRRNzgiLCJzdWIiOiI3SzZQWlYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc29jIHJzZXQgcmFjdCBybG9jIHJ3ZWkgcmhyIHJudXQgcnBybyByc2xlIiwiZXhwIjoxNTYwMzk3MTk5LCJpYXQiOjE1NTk3OTIzOTl9.u_Zn0Rfo0_fjRAE4N7X1ofZpivKKX67ZjBvRvZfBkBk" https://api.fitbit.com/1/user/-/activities/steps/date/2019-06-06/1d/5min.json -o 2019-06-06_test3/steps_test3_2019-06-06
